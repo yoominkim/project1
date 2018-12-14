@@ -9,11 +9,11 @@
 #homeBox ul>li:last-child {position:relative; z-index:100; width:15.3125rem;background-color:#fff30d;}
 
 #homeBox a{display: block; width: 100%; height: 100%; background-color:inherit; text-align: center;
- line-height:1.875rem; color:#fff; background-image: url("../../../../img/gcass_images/homebox/homeBox.png");background-repeat: no-repeat;background-position: 50%;}
+ line-height:1.875rem; color:#fff; background-image: url("/project1/img/gcass_images/homebox/homeBox.png");background-repeat: no-repeat;background-position: 50%;}
 #homeBox li:last-child>a{text-align: left; text-indent:1rem; 
   color:#171717;}
 #homeBox ul>li>a:hover,
-#homeBox ul>li>a:focus{background-image: url("/img/gcass_images/homebox/homeBox_over.png");}
+#homeBox ul>li>a:focus{background-image: url("/project1/img/gcass_images/homebox/homeBox_over.png");}
 
 
 #homeBox ul>li:nth-child(1)>a{background-position-x:0; /*background-image: url("../../../../img/gcass_images/homebox/home.png");*/}
